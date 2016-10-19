@@ -1,4 +1,6 @@
-# Hahow Frontend Engineer 徵才小專案
+<p align="center"><img width="100"src="https://cloud.githubusercontent.com/assets/559351/19522936/88397ed2-964b-11e6-8d59-9b1c2a45f06d.png"></p>
+
+# Hahow Front-end Engineer 徵才小專案
 
 這是一個小型的徵才專案，會需要你使用 JS framework 和 backend API 所提供的資料，依照 wireframe 來完成頁面。
 
@@ -16,8 +18,9 @@
 
 ## 加分建議
 
-- 使用 CSS framework
 - 程式碼的可讀性與可維護性
+- 使用 CSS framework, Responsive Web Design
+- 加入單元測試、E2E 測試
 - 任何你覺得可以讓網頁變得更酷的事情
 
 ## 頁面需求
